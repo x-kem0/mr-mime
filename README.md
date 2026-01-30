@@ -1,5 +1,8 @@
 # MrMIME
 
+[![Hex.pm](https://img.shields.io/hexpm/v/mr_mime.svg)](https://hex.pm/packages/mr_mime) 
+[![Documentation](https://img.shields.io/badge/documentation-gray)](https://hexdocs.pm/mr_mime)
+
 Zero-dependency signature-based file identifier (when possible!)
 
 
